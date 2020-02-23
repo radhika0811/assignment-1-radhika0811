@@ -13,7 +13,7 @@ public class Main {
         final Scanner scanner = new Scanner(System.in);
         MyProgram myProgram = new MyProgram();
         while (true) {
-            System.out.print("Welcome to Ashita's Contact List App: \n" +
+            System.out.print("Welcome to Radhika's Contact List App: \n" +
                     " Press 1 to add a new contact \n" +
                     " Press 2 to view all contacts \n" +
                     " Press 3 to search for a contact \n" +
